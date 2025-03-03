@@ -1,6 +1,6 @@
 [package]
 name = "LuoPoShan"
-version = "0.0.1"
+version = "0.0.2"
 description = "这是一个简单测试的桌面应用"
 authors = ["1024xiaoshen"]
 edition = "2021"
