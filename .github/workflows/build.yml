@@ -84,7 +84,7 @@ jobs:
               with:
                   tagName: 'LuoPoShan'
                   releaseName: 'LuoPoShan v__VERSION__'
-                  releaseBody: '掘金页面浏览'
+                  releaseBody: ''
                   releaseDraft: false
                   prerelease: false
                   publish: true
